@@ -78,7 +78,7 @@ body4{color: red;
 				<section14><a href="https://www.google.com/search?rlz=1C1CHBF_enIN917IN917&sxsrf=ALeKk01yI7bnNF1RFVDpOk5rXuQAYI5jxQ%3A1599302505122&ei=aWtTX6iBB46f9QOg04OoCw&q=innova&oq=innova&gs_lcp=CgZwc3ktYWIQARgAMgQIIxAnMgQIIxAnMgUIABCRAjIFCAAQkQIyBQgAELEDMgcIABCxAxBDMgIIADIFCAAQsQMyAggAMgUIABCxAzoECAAQRzoHCAAQFBCHAjoHCCMQ6gIQJzoNCC4QxwEQrwEQ6gIQJzoICAAQsQMQgwE6BAgAEEM6DQgAELEDEIMBEBQQhwJQg8QEWPThBGCS7gRoAXABeASAAc4BiAG3DpIBBTAuOS4ymAEAoAEBqgEHZ3dzLXdperABCsABAQ&sclient=psy-ab">This is fav car;<br>INNOVA</a></section14><br>
 
 
-		<body7><p5>stay in touch</p5><br><br><br>
+		<body7>stay in touch<br><br><br>
 		<section10><a href="https://www.instagram.com/being_saiteja/"><br>instagram</a>
 		<a href="https://www.facebook.com/chako.saiteja"><br>facebook</a>
 		<a href="https://www.linkedin.com/in/saiteja-kodakandla-56127718a/"><br>linkedin</a></section10></body7>
